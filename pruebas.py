@@ -6,3 +6,5 @@ print(letras)
 dentro = "c" in letras
 # Imprime un booleano
 print(dentro)
+posicion = letras.index("d")
+print (posicion)
